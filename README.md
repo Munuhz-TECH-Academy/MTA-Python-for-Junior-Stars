@@ -1,2 +1,2 @@
 # MTA-Python-for-Junior-Stars
-This repo is to be used for the Python for the Junior stars course
+This repo contains made code to support the learners coding journey. Kindly note that some of the lessons may not be added because they are simply not compatible with the content uploaded here.
